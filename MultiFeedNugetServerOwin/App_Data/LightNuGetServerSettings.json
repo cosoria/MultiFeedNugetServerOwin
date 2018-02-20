@@ -1,0 +1,40 @@
+﻿{
+  "Repositories" : 
+  [
+    {
+      "packagesDirPath": "\\\\TFSShares\\NuGet DEV Repository\\BTO",
+      "feeds": [
+        {
+          "name": "CustomerPortal",
+          "apiKey": "",
+          "requiresApiKey": false,
+          "nuGetServerSettings": {
+            "ignoreSymbolsPackages": true,
+            "allowOverrideExistingPackageOnPush": true,
+            "enableFileSystemMonitoring": true
+          }
+        },
+        {
+          "name": "Puma_Rewrite",
+          "apiKey": "",
+          "requiresApiKey": false,
+          "nuGetServerSettings": {
+            "ignoreSymbolsPackages": true,
+            "allowOverrideExistingPackageOnPush": true,
+            "enableFileSystemMonitoring": true
+          }
+        },
+        {
+          "name": "Gold",
+          "apiKey": "",
+          "requiresApiKey": false,
+          "nuGetServerSettings": {
+            "ignoreSymbolsPackages": true,
+            "allowOverrideExistingPackageOnPush": true,
+            "enableFileSystemMonitoring": true
+          }
+        }
+      ]
+    }
+  ]
+}
