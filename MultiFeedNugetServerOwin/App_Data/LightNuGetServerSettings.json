@@ -33,6 +33,16 @@
             "allowOverrideExistingPackageOnPush": true,
             "enableFileSystemMonitoring": true
           }
+        },
+        {
+          "name": "PortalDependencies",
+          "apiKey": "",
+          "requiresApiKey": false,
+          "nuGetServerSettings": {
+            "ignoreSymbolsPackages": true,
+            "allowOverrideExistingPackageOnPush": true,
+            "enableFileSystemMonitoring": true
+          }
         }
       ]
     }
